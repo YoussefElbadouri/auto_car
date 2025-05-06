@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # car_auto
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# auto_car
+>>>>>>> 52c7dd215431bcb85b6f9083241a76e8e06147ea
