@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extended
+flask-cors
+pymongo
+bcrypt
+dnspython
